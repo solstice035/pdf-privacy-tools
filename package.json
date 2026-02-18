@@ -1,0 +1,29 @@
+{
+  "name": "pdf-privacy-tools",
+  "version": "1.0.0",
+  "description": "Privacy-first, browser-based PDF toolkit - merge, split, reorder, extract text entirely client-side",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "pdf",
+    "privacy",
+    "client-side",
+    "merge",
+    "split",
+    "pdf-tools"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "vite": "^5.0.11"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "pdfjs-dist": "^3.11.174"
+  }
+}

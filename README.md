@@ -1,5 +1,9 @@
 # 🔒 PDF Privacy Tools
 
+> **Built by [The Foundry](https://github.com/solstice035/the-foundry)**, an autonomous build pipeline I run. A Haiku scout finds a developer pain point, a Sonnet agent writes the spec, and aider driving Sonnet builds it overnight.
+>
+> This repo was produced end to end by that pipeline. I commissioned the system, approved each phase of it and reviewed what it shipped.
+
 A privacy-first, browser-based PDF toolkit that lets you merge, split, reorder, and extract text from PDF files — entirely client-side with **zero server uploads**. Your files never leave your device.
 
 ## 🌟 Features
